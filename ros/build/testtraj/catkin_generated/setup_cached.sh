@@ -7,8 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/octavian/ros/devel/.private/testtraj:$CMAKE_PREFIX_PATH"
+export CMAKE_PREFIX_PATH="/home/gents/ariac/ros/devel/.private/testtraj:$CMAKE_PREFIX_PATH"
 export GAZEBO_MODEL_PATH="/opt/ros/melodic/share/osrf_gear/models:$GAZEBO_MODEL_PATH"
-export PWD="/home/octavian/ros/build/testtraj"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/octavian/ros/devel/.private/testtraj/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/octavian/ros/src/testtraj:$ROS_PACKAGE_PATH"
+export PWD="/home/gents/ariac/ros/build/testtraj"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/gents/ariac/ros/devel/.private/testtraj/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/gents/ariac/ros/src/testtraj:$ROS_PACKAGE_PATH"

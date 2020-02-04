@@ -1,1 +1,1 @@
-/home/octavian/ros/devel/.private/testtraj/lib/pkgconfig/testtraj.pc
+/home/gents/ariac/ros/devel/.private/testtraj/lib/pkgconfig/testtraj.pc

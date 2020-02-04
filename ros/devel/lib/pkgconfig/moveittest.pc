@@ -1,1 +1,0 @@
-/home/octavian/ros/devel/.private/moveittest/lib/pkgconfig/moveittest.pc

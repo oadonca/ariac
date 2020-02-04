@@ -1,8 +1,0 @@
-prefix=/home/octavian/ros/devel/.private/moveittest
-
-Name: moveittest
-Description: Description of moveittest
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/octavian/ros/devel/.private/moveittest/lib 
-Requires: 

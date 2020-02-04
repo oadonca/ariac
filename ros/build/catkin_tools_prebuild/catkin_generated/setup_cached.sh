@@ -7,8 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/octavian/ros/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export CMAKE_PREFIX_PATH="/home/gents/ariac/ros/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
 export GAZEBO_MODEL_PATH="/opt/ros/melodic/share/osrf_gear/models:$GAZEBO_MODEL_PATH"
-export PWD="/home/octavian/ros/build/catkin_tools_prebuild"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/octavian/ros/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/octavian/ros/build/catkin_tools_prebuild:/home/octavian/ariac_ws/src:/opt/ros/melodic/share"
+export PWD="/home/gents/ariac/ros/build/catkin_tools_prebuild"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/gents/ariac/ros/devel/.private/catkin_tools_prebuild/share/common-lisp"
+export ROS_PACKAGE_PATH="/home/gents/ariac/ros/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

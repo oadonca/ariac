@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/octavian/ros/src/testtraj/src/testtraj_node.cpp
+/home/gents/ariac/ros/src/testtraj/src/testtraj_node.cpp
 ros/ros.h
 -
 trajectory_msgs/JointTrajectory.h

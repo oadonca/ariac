@@ -1,8 +1,8 @@
-prefix=/home/octavian/ros/devel/.private/testtraj
+prefix=/home/gents/ariac/ros/devel/.private/testtraj
 
 Name: testtraj
 Description: Description of testtraj
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/octavian/ros/devel/.private/testtraj/lib 
+Libs: -L${prefix}/lib 
 Requires: roscpp trajectory_msgs
