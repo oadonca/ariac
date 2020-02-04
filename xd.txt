@@ -1,3 +1,4 @@
+ros/.catkin_tools/
 ros/build/
 ros/devel/
 ros/logs/

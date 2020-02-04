@@ -1,1 +1,0 @@
-/home/gents/ariac/ros/devel/.private/testtraj/share/testtraj/cmake/testtrajConfig.cmake

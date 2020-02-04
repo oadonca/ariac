@@ -1,5 +1,0 @@
-moveittest
-/home/octavian/ros/devel/.private/moveittest/cmake.lock /home/octavian/ros/devel/./cmake.lock
-/home/octavian/ros/devel/.private/moveittest/lib/pkgconfig/moveittest.pc /home/octavian/ros/devel/lib/pkgconfig/moveittest.pc
-/home/octavian/ros/devel/.private/moveittest/share/moveittest/cmake/moveittestConfig-version.cmake /home/octavian/ros/devel/share/moveittest/cmake/moveittestConfig-version.cmake
-/home/octavian/ros/devel/.private/moveittest/share/moveittest/cmake/moveittestConfig.cmake /home/octavian/ros/devel/share/moveittest/cmake/moveittestConfig.cmake

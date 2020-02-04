@@ -1,6 +1,0 @@
-testtraj
-/home/gents/ariac/ros/devel/.private/testtraj/cmake.lock /home/gents/ariac/ros/devel/./cmake.lock
-/home/gents/ariac/ros/devel/.private/testtraj/share/testtraj/cmake/testtrajConfig.cmake /home/gents/ariac/ros/devel/share/testtraj/cmake/testtrajConfig.cmake
-/home/gents/ariac/ros/devel/.private/testtraj/share/testtraj/cmake/testtrajConfig-version.cmake /home/gents/ariac/ros/devel/share/testtraj/cmake/testtrajConfig-version.cmake
-/home/gents/ariac/ros/devel/.private/testtraj/lib/testtraj/testtraj_node /home/gents/ariac/ros/devel/lib/testtraj/testtraj_node
-/home/gents/ariac/ros/devel/.private/testtraj/lib/pkgconfig/testtraj.pc /home/gents/ariac/ros/devel/lib/pkgconfig/testtraj.pc

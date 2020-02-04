@@ -1,6 +1,0 @@
-devel_space: /home/gents/ariac/ros/devel
-install: false
-install_space: /home/gents/ariac/ros/install
-profile: default
-source_space: /home/gents/ariac/ros/src
-workspace: /home/gents/ariac/ros

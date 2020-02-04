@@ -1,1 +1,0 @@
-/home/gents/ariac/ros/devel/.private/catkin_tools_prebuild/env.sh
