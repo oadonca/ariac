@@ -1,0 +1,6 @@
+devel_space: /home/octavian/ros/devel
+install: false
+install_space: /home/octavian/ros/install
+profile: default
+source_space: /home/octavian/ros/src
+workspace: /home/octavian/ros

@@ -1,0 +1,8 @@
+prefix=/home/octavian/ros/install
+
+Name: moveittest
+Description: Description of moveittest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/octavian/ros/install/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/octavian/ros/devel/lib/testtraj/testtraj_node
+Symlinking /home/octavian/ros/devel/lib/pkgconfig/testtraj.pc
+Symlinking /home/octavian/ros/devel/share/testtraj/cmake/testtrajConfig-version.cmake
+Symlinking /home/octavian/ros/devel/share/testtraj/cmake/testtrajConfig.cmake

@@ -1,0 +1,8 @@
+[31m[1mCMake Error[0m at /opt/ros/melodic/share/catkin/cmake/catkin_package.cmake:108 (message):
+  catkin_package() called with unused arguments:
+  /opt/ros/melodic/include;/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp;/usr/include
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:104 (catkin_package)
+
+
