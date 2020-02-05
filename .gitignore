@@ -1,5 +1,5 @@
-ros/.catkin_tools/
-ros/build/
-ros/devel/
-ros/install/
-ros/.vscode/
+workspace/.catkin_tools/
+workspace/build/
+workspace/devel/
+workspace/install/
+workspace/.vscode/
