@@ -1,6 +1,7 @@
-# ariac
+# ARIAC 2020
 
-# commit test
+Team HardWater ARIAC 2020 ROS repository
 
-#weiofnqoeirnboiqrg
+Octavian Donca - oadonca@gmail.com
+Gent Semaj - gentsemaj@gmail.com
 
