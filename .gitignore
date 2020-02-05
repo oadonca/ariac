@@ -1,5 +1,5 @@
 ros/.catkin_tools/
 ros/build/
 ros/devel/
-ros/logs/
+ros/install/
 ros/.vscode/
