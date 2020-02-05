@@ -1,0 +1,8 @@
+prefix=/home/gents/ariac/devel
+
+Name: ur_msgs
+Description: Description of ur_msgs
+Version: 1.2.1
+Cflags: -I/home/gents/ariac/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs
