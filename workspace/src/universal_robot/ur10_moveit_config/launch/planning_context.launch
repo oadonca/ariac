@@ -12,7 +12,7 @@
     <param if="$(arg limited)" name="$(arg robot_description)" command="$(find xacro)/xacro --inorder '$(find ur_description)/urdf/ur10_joint_limited_robot.urdf.xacro'" />
   </group>
 
-  <!-- The semantic description that corresponds to the URDF -->
+  <!-- The semantic description that corresponds to the URDF; THIS LOADS IT INTO THE PARAMTER SERVER -->
   <param name="$(arg robot_description)_semantic" textfile="$(find ur10_moveit_config)/config/ur10.srdf" />
   
   <!-- Load updated joint limits (override information from URDF) -->

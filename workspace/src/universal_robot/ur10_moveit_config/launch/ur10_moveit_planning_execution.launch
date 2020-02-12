@@ -2,13 +2,19 @@
   <arg name="sim" default="false" />
   <arg name="limited" default="false"/>
   <arg name="debug" default="false" />
-    
+  <arg name="arm_namespace" default="/ariac/arm1" />
+
   <!-- Remap follow_joint_trajectory -->
   <remap if="$(arg sim)" from="/follow_joint_trajectory" to="/arm_controller/follow_joint_trajectory"/>
   
+  <!-- send robot urdf to param server (pretty sure we don't need to do this; planning_context takes care of it) ->
+  <include file="$(find ur_description)/launch/ur10_upload.launch">
+    <arg name="limited" value="$(arg limited)"/>
+  </include -->
+
   <!-- Launch moveit -->
   <include file="$(find ur10_moveit_config)/launch/move_group.launch">
     <arg name="limited" default="$(arg limited)"/>
-    <arg name="debug" default="$(arg debug)" />
+    <arg name="arm_namespace" value="$(arg arm_namespace)" /> <!-- added this to pass through required arm namespace -->
   </include>
 </launch>
